@@ -1,0 +1,22 @@
+
+/* Підключення скидання стилів */
+@import url('./reset.css');
+
+/* Підключення загальних стилів */
+@import url('./general.css');
+
+
+/* Підключення css для Tasks */
+
+@import url('./task-1.css');
+
+@import url('./task-2.css');
+
+@import url('./task-3.css');
+
+@import url('./task-4.css');
+
+@import url('./task-5.css');
+
+@import url('./task-6.css');
+
